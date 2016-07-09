@@ -1,0 +1,4 @@
+github：https://github.com/greenrobot/EventBus
+home：http://greenrobot.org/eventbus/
+
+EventBus is an open-source library for Android using the publisher/subscriber pattern to solve the problem of loose coupling. EventBus enables central communication to decoupled classes with just a few lines of code – simplifying the code, removing dependencies, and speeding up app development.
